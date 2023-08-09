@@ -1,0 +1,18 @@
+{
+  "name": "bi-automation",
+  "version": "1.0.0",
+  "description": "BI Reports Testing",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Georgina",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.3",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "latest": "^0.2.0"
+  }
+}
